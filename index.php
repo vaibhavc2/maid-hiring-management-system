@@ -11,7 +11,7 @@ include('includes/dbconnection.php');
          <title>Maid Hiring Management System || Home Page </title>
         
         <link rel="manifest" href="site.webmanifest">
-		<link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.ico">
+		<link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/logo.png">
 
 		<!-- CSS here -->
             <link rel="stylesheet" href="assets/css/bootstrap.min.css">
